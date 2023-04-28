@@ -1,13 +1,13 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: Boston University, College of Engineering
+// Engineer: K. Walp, N. Vinay Kishan
 // 
 // Create Date: 04/27/2023 05:01:51 PM
-// Design Name: 
+// Design Name: FPGA Tennis Top Module
 // Module Name: newfinalmodule2_
-// Project Name: 
-// Target Devices: 
+// Project Name: FPGA Tennis
+// Target Devices: XILLINX Nexys A7
 // Tool Versions: 
 // Description: 
 // 
