@@ -1,7 +1,11 @@
+// FPGA Tennis Main Module
+
+// K. Walp, N. Vinay Kishan
+// 04/28/2023
+// ENG EC 311 Final Project
+
+
 `timescale 1ns / 1ps
-
-
-
 
 module lights2_(
     input clock, reset,
