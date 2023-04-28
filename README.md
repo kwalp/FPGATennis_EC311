@@ -1,6 +1,7 @@
 # FPGATennis
 
 Tennis on the FPGA
+
 By K. Walp and N. Vinay Kishan
 
 This tennis game is written in verilog, and synthesized with XILLINX Vivado. It includes states for two players (tennis) and one player (squash). If a player hits early on three clock edges, the other player will gain a point, and will serve. If a player misses the ball, the other player will gain a point. Server after misses will alternate. At each hit, the clock speed will increase, and is reset at the next serve. 
